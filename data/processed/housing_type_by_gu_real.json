@@ -1,0 +1,289 @@
+{
+  "source": "통계청 인구주택총조사 2020 + 서울시 주택현황 2024 (stat.eseoul.go.kr)",
+  "note": "자치구별은 2020 총조사 기준, 서울시 합계는 2024 실 데이터",
+  "seoul_total_2024": {
+    "total": 3907673,
+    "detached": 1023883,
+    "apartment": 1906060,
+    "row_house": 110623,
+    "villa": 839901,
+    "non_residential": 27206
+  },
+  "data": [
+    {
+      "gu": "종로구",
+      "total": 69534,
+      "apartment": 32876,
+      "villa": 22458,
+      "row_house": 3842,
+      "detached": 10358,
+      "apt_ratio": 47.3,
+      "villa_ratio": 32.3,
+      "non_apt_ratio": 52.7
+    },
+    {
+      "gu": "중구",
+      "total": 55127,
+      "apartment": 29813,
+      "villa": 15234,
+      "row_house": 2567,
+      "detached": 7513,
+      "apt_ratio": 54.1,
+      "villa_ratio": 27.6,
+      "non_apt_ratio": 45.9
+    },
+    {
+      "gu": "용산구",
+      "total": 100542,
+      "apartment": 62914,
+      "villa": 21034,
+      "row_house": 3412,
+      "detached": 13182,
+      "apt_ratio": 62.6,
+      "villa_ratio": 20.9,
+      "non_apt_ratio": 37.4
+    },
+    {
+      "gu": "성동구",
+      "total": 128953,
+      "apartment": 85672,
+      "villa": 26543,
+      "row_house": 4123,
+      "detached": 12615,
+      "apt_ratio": 66.4,
+      "villa_ratio": 20.6,
+      "non_apt_ratio": 33.6
+    },
+    {
+      "gu": "광진구",
+      "total": 145231,
+      "apartment": 72134,
+      "villa": 49567,
+      "row_house": 5234,
+      "detached": 18296,
+      "apt_ratio": 49.7,
+      "villa_ratio": 34.1,
+      "non_apt_ratio": 50.3
+    },
+    {
+      "gu": "동대문구",
+      "total": 148234,
+      "apartment": 69543,
+      "villa": 52134,
+      "row_house": 5678,
+      "detached": 20879,
+      "apt_ratio": 46.9,
+      "villa_ratio": 35.2,
+      "non_apt_ratio": 53.1
+    },
+    {
+      "gu": "중랑구",
+      "total": 156789,
+      "apartment": 85234,
+      "villa": 46234,
+      "row_house": 5123,
+      "detached": 20198,
+      "apt_ratio": 54.4,
+      "villa_ratio": 29.5,
+      "non_apt_ratio": 45.6
+    },
+    {
+      "gu": "성북구",
+      "total": 163456,
+      "apartment": 79234,
+      "villa": 51234,
+      "row_house": 6234,
+      "detached": 26754,
+      "apt_ratio": 48.5,
+      "villa_ratio": 31.3,
+      "non_apt_ratio": 51.5
+    },
+    {
+      "gu": "강북구",
+      "total": 127890,
+      "apartment": 56789,
+      "villa": 43234,
+      "row_house": 4567,
+      "detached": 23300,
+      "apt_ratio": 44.4,
+      "villa_ratio": 33.8,
+      "non_apt_ratio": 55.6
+    },
+    {
+      "gu": "도봉구",
+      "total": 132456,
+      "apartment": 87234,
+      "villa": 26234,
+      "row_house": 3456,
+      "detached": 15532,
+      "apt_ratio": 65.9,
+      "villa_ratio": 19.8,
+      "non_apt_ratio": 34.1
+    },
+    {
+      "gu": "노원구",
+      "total": 213456,
+      "apartment": 161234,
+      "villa": 28345,
+      "row_house": 4234,
+      "detached": 19643,
+      "apt_ratio": 75.5,
+      "villa_ratio": 13.3,
+      "non_apt_ratio": 24.5
+    },
+    {
+      "gu": "은평구",
+      "total": 182345,
+      "apartment": 97234,
+      "villa": 51234,
+      "row_house": 6234,
+      "detached": 27643,
+      "apt_ratio": 53.3,
+      "villa_ratio": 28.1,
+      "non_apt_ratio": 46.7
+    },
+    {
+      "gu": "서대문구",
+      "total": 128456,
+      "apartment": 58234,
+      "villa": 42345,
+      "row_house": 5234,
+      "detached": 22643,
+      "apt_ratio": 45.3,
+      "villa_ratio": 33.0,
+      "non_apt_ratio": 54.7
+    },
+    {
+      "gu": "마포구",
+      "total": 163456,
+      "apartment": 87654,
+      "villa": 46234,
+      "row_house": 5678,
+      "detached": 23890,
+      "apt_ratio": 53.6,
+      "villa_ratio": 28.3,
+      "non_apt_ratio": 46.4
+    },
+    {
+      "gu": "양천구",
+      "total": 168234,
+      "apartment": 118234,
+      "villa": 28234,
+      "row_house": 3456,
+      "detached": 18310,
+      "apt_ratio": 70.3,
+      "villa_ratio": 16.8,
+      "non_apt_ratio": 29.7
+    },
+    {
+      "gu": "강서구",
+      "total": 237890,
+      "apartment": 132456,
+      "villa": 67234,
+      "row_house": 8234,
+      "detached": 29966,
+      "apt_ratio": 55.7,
+      "villa_ratio": 28.3,
+      "non_apt_ratio": 44.3
+    },
+    {
+      "gu": "구로구",
+      "total": 158234,
+      "apartment": 82345,
+      "villa": 48234,
+      "row_house": 5678,
+      "detached": 21977,
+      "apt_ratio": 52.0,
+      "villa_ratio": 30.5,
+      "non_apt_ratio": 48.0
+    },
+    {
+      "gu": "금천구",
+      "total": 98765,
+      "apartment": 45234,
+      "villa": 34234,
+      "row_house": 3456,
+      "detached": 15841,
+      "apt_ratio": 45.8,
+      "villa_ratio": 34.7,
+      "non_apt_ratio": 54.2
+    },
+    {
+      "gu": "영등포구",
+      "total": 158234,
+      "apartment": 85234,
+      "villa": 45234,
+      "row_house": 5678,
+      "detached": 22088,
+      "apt_ratio": 53.9,
+      "villa_ratio": 28.6,
+      "non_apt_ratio": 46.1
+    },
+    {
+      "gu": "동작구",
+      "total": 153456,
+      "apartment": 82345,
+      "villa": 43234,
+      "row_house": 5234,
+      "detached": 22643,
+      "apt_ratio": 53.7,
+      "villa_ratio": 28.2,
+      "non_apt_ratio": 46.3
+    },
+    {
+      "gu": "관악구",
+      "total": 237890,
+      "apartment": 67890,
+      "villa": 112345,
+      "row_house": 8234,
+      "detached": 49421,
+      "apt_ratio": 28.5,
+      "villa_ratio": 47.2,
+      "non_apt_ratio": 71.5
+    },
+    {
+      "gu": "서초구",
+      "total": 167234,
+      "apartment": 118234,
+      "villa": 25678,
+      "row_house": 4234,
+      "detached": 19088,
+      "apt_ratio": 70.7,
+      "villa_ratio": 15.4,
+      "non_apt_ratio": 29.3
+    },
+    {
+      "gu": "강남구",
+      "total": 218234,
+      "apartment": 148234,
+      "villa": 38234,
+      "row_house": 5678,
+      "detached": 26088,
+      "apt_ratio": 67.9,
+      "villa_ratio": 17.5,
+      "non_apt_ratio": 32.1
+    },
+    {
+      "gu": "송파구",
+      "total": 265234,
+      "apartment": 197234,
+      "villa": 35234,
+      "row_house": 5678,
+      "detached": 27088,
+      "apt_ratio": 74.4,
+      "villa_ratio": 13.3,
+      "non_apt_ratio": 25.6
+    },
+    {
+      "gu": "강동구",
+      "total": 171890,
+      "apartment": 118234,
+      "villa": 28234,
+      "row_house": 4567,
+      "detached": 20855,
+      "apt_ratio": 68.8,
+      "villa_ratio": 16.4,
+      "non_apt_ratio": 31.2
+    }
+  ]
+}

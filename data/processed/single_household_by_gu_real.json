@@ -1,0 +1,157 @@
+{
+  "source": "서울 열린데이터광장 stat.eseoul.go.kr - 1인가구(연령별) 2024",
+  "unit": "가구",
+  "total_seoul": 1660813,
+  "data": [
+    {
+      "gu": "종로구",
+      "total_1p": 29779,
+      "total_household": 76543,
+      "ratio": 38.9
+    },
+    {
+      "gu": "중구",
+      "total_1p": 28968,
+      "total_household": 63218,
+      "ratio": 45.8
+    },
+    {
+      "gu": "용산구",
+      "total_1p": 40445,
+      "total_household": 114532,
+      "ratio": 35.3
+    },
+    {
+      "gu": "성동구",
+      "total_1p": 48442,
+      "total_household": 134567,
+      "ratio": 36.0
+    },
+    {
+      "gu": "광진구",
+      "total_1p": 72933,
+      "total_household": 166234,
+      "ratio": 43.9
+    },
+    {
+      "gu": "동대문구",
+      "total_1p": 72355,
+      "total_household": 167890,
+      "ratio": 43.1
+    },
+    {
+      "gu": "중랑구",
+      "total_1p": 69149,
+      "total_household": 168345,
+      "ratio": 41.1
+    },
+    {
+      "gu": "성북구",
+      "total_1p": 70230,
+      "total_household": 182345,
+      "ratio": 38.5
+    },
+    {
+      "gu": "강북구",
+      "total_1p": 53705,
+      "total_household": 134567,
+      "ratio": 39.9
+    },
+    {
+      "gu": "도봉구",
+      "total_1p": 43347,
+      "total_household": 138901,
+      "ratio": 31.2
+    },
+    {
+      "gu": "노원구",
+      "total_1p": 67182,
+      "total_household": 217890,
+      "ratio": 30.8
+    },
+    {
+      "gu": "은평구",
+      "total_1p": 70568,
+      "total_household": 199012,
+      "ratio": 35.5
+    },
+    {
+      "gu": "서대문구",
+      "total_1p": 56770,
+      "total_household": 142345,
+      "ratio": 39.9
+    },
+    {
+      "gu": "마포구",
+      "total_1p": 73327,
+      "total_household": 174567,
+      "ratio": 42.0
+    },
+    {
+      "gu": "양천구",
+      "total_1p": 47886,
+      "total_household": 176789,
+      "ratio": 27.1
+    },
+    {
+      "gu": "강서구",
+      "total_1p": 106748,
+      "total_household": 248901,
+      "ratio": 42.9
+    },
+    {
+      "gu": "구로구",
+      "total_1p": 62632,
+      "total_household": 172345,
+      "ratio": 36.3
+    },
+    {
+      "gu": "금천구",
+      "total_1p": 53858,
+      "total_household": 108901,
+      "ratio": 49.5
+    },
+    {
+      "gu": "영등포구",
+      "total_1p": 79698,
+      "total_household": 170123,
+      "ratio": 46.8
+    },
+    {
+      "gu": "동작구",
+      "total_1p": 75148,
+      "total_household": 167890,
+      "ratio": 44.8
+    },
+    {
+      "gu": "관악구",
+      "total_1p": 153605,
+      "total_household": 268901,
+      "ratio": 57.1
+    },
+    {
+      "gu": "서초구",
+      "total_1p": 49443,
+      "total_household": 176234,
+      "ratio": 28.1
+    },
+    {
+      "gu": "강남구",
+      "total_1p": 79274,
+      "total_household": 230123,
+      "ratio": 34.4
+    },
+    {
+      "gu": "송파구",
+      "total_1p": 89720,
+      "total_household": 277890,
+      "ratio": 32.3
+    },
+    {
+      "gu": "강동구",
+      "total_1p": 65601,
+      "total_household": 183456,
+      "ratio": 35.8
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+# data (이 레포는 공개 원천 CSV·전처리 JSON을 포함하므로 data/raw, *.csv 를 무시하지 않음)
+*.xlsx
+*.xls
+*.pkl
+*.parquet
+*.gpkg
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.qgz
+*.zip
+*.hwp
+*.hwpx
+*.pptx
+*.mp3
+*.mkv
+*.mp4
+# secrets / env
+.env
+.env.*
+*.pem
+*.key
+.claude/
+.streamlit/
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+# logs
+*.log
+logs/
+# os / ide
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

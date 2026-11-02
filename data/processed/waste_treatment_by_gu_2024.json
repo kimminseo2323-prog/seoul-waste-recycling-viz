@@ -1,0 +1,293 @@
+{
+  "source": "서울 열린데이터광장 - 생활계폐기물 발생량 및 처리현황(2020년 이후) DT201004O1200092020",
+  "url": "https://data.seoul.go.kr/dataList/DT201004O1200092020/S/2/datasetView.do",
+  "year": 2024,
+  "unit": "톤/년",
+  "seoul_total": {
+    "gu": "서울시",
+    "generation": 3836977,
+    "recycling_total": 2373762,
+    "recycling_material": 1507567,
+    "recycling_food": 866195,
+    "incineration": 908918,
+    "landfill": 214165,
+    "etc": 340132
+  },
+  "data": [
+    {
+      "gu": "종로구",
+      "generation": 98887,
+      "recycling_total": 58688,
+      "recycling_material": 29130,
+      "recycling_food": 29559,
+      "incineration": 35903,
+      "landfill": 3869,
+      "etc": 427,
+      "recycling_rate": 59.3
+    },
+    {
+      "gu": "중구",
+      "generation": 133576,
+      "recycling_total": 85767,
+      "recycling_material": 47751,
+      "recycling_food": 38016,
+      "incineration": 41851,
+      "landfill": 4641,
+      "etc": 1318,
+      "recycling_rate": 64.2
+    },
+    {
+      "gu": "용산구",
+      "generation": 103895,
+      "recycling_total": 67515,
+      "recycling_material": 42197,
+      "recycling_food": 25318,
+      "incineration": 32618,
+      "landfill": 3506,
+      "etc": 257,
+      "recycling_rate": 65.0
+    },
+    {
+      "gu": "성동구",
+      "generation": 159245,
+      "recycling_total": 120565,
+      "recycling_material": 93089,
+      "recycling_food": 27476,
+      "incineration": 30444,
+      "landfill": 6175,
+      "etc": 2062,
+      "recycling_rate": 75.7
+    },
+    {
+      "gu": "광진구",
+      "generation": 107234,
+      "recycling_total": 71082,
+      "recycling_material": 41987,
+      "recycling_food": 29096,
+      "incineration": 27968,
+      "landfill": 8176,
+      "etc": 8,
+      "recycling_rate": 66.3
+    },
+    {
+      "gu": "동대문구",
+      "generation": 112593,
+      "recycling_total": 73460,
+      "recycling_material": 42239,
+      "recycling_food": 31221,
+      "incineration": 33612,
+      "landfill": 4632,
+      "etc": 889,
+      "recycling_rate": 65.2
+    },
+    {
+      "gu": "중랑구",
+      "generation": 107223,
+      "recycling_total": 66826,
+      "recycling_material": 37464,
+      "recycling_food": 29362,
+      "incineration": 37416,
+      "landfill": 2942,
+      "etc": 39,
+      "recycling_rate": 62.3
+    },
+    {
+      "gu": "성북구",
+      "generation": 117738,
+      "recycling_total": 87203,
+      "recycling_material": 55025,
+      "recycling_food": 32178,
+      "incineration": 28119,
+      "landfill": 1972,
+      "etc": 445,
+      "recycling_rate": 74.1
+    },
+    {
+      "gu": "강북구",
+      "generation": 83607,
+      "recycling_total": 57254,
+      "recycling_material": 35218,
+      "recycling_food": 22037,
+      "incineration": 24101,
+      "landfill": 2252,
+      "etc": 0,
+      "recycling_rate": 68.5
+    },
+    {
+      "gu": "도봉구",
+      "generation": 88094,
+      "recycling_total": 61429,
+      "recycling_material": 37068,
+      "recycling_food": 24361,
+      "incineration": 20306,
+      "landfill": 2084,
+      "etc": 4276,
+      "recycling_rate": 69.7
+    },
+    {
+      "gu": "노원구",
+      "generation": 150001,
+      "recycling_total": 96090,
+      "recycling_material": 55535,
+      "recycling_food": 40555,
+      "incineration": 41725,
+      "landfill": 1856,
+      "etc": 10329,
+      "recycling_rate": 64.1
+    },
+    {
+      "gu": "은평구",
+      "generation": 127441,
+      "recycling_total": 72827,
+      "recycling_material": 46712,
+      "recycling_food": 26115,
+      "incineration": 24803,
+      "landfill": 29811,
+      "etc": 0,
+      "recycling_rate": 57.1
+    },
+    {
+      "gu": "서대문구",
+      "generation": 99837,
+      "recycling_total": 63501,
+      "recycling_material": 40880,
+      "recycling_food": 22621,
+      "incineration": 31947,
+      "landfill": 4288,
+      "etc": 101,
+      "recycling_rate": 63.6
+    },
+    {
+      "gu": "마포구",
+      "generation": 142121,
+      "recycling_total": 85360,
+      "recycling_material": 58662,
+      "recycling_food": 26698,
+      "incineration": 49895,
+      "landfill": 5601,
+      "etc": 1266,
+      "recycling_rate": 60.1
+    },
+    {
+      "gu": "양천구",
+      "generation": 121756,
+      "recycling_total": 72237,
+      "recycling_material": 42695,
+      "recycling_food": 29542,
+      "incineration": 33545,
+      "landfill": 6453,
+      "etc": 9522,
+      "recycling_rate": 59.3
+    },
+    {
+      "gu": "강서구",
+      "generation": 590910,
+      "recycling_total": 270188,
+      "recycling_material": 225445,
+      "recycling_food": 44743,
+      "incineration": 50371,
+      "landfill": 14385,
+      "etc": 255967,
+      "recycling_rate": 45.7
+    },
+    {
+      "gu": "구로구",
+      "generation": 122831,
+      "recycling_total": 71343,
+      "recycling_material": 43017,
+      "recycling_food": 28325,
+      "incineration": 44102,
+      "landfill": 7011,
+      "etc": 375,
+      "recycling_rate": 58.1
+    },
+    {
+      "gu": "금천구",
+      "generation": 96694,
+      "recycling_total": 64032,
+      "recycling_material": 44733,
+      "recycling_food": 19299,
+      "incineration": 10564,
+      "landfill": 21528,
+      "etc": 570,
+      "recycling_rate": 66.2
+    },
+    {
+      "gu": "영등포구",
+      "generation": 158377,
+      "recycling_total": 106906,
+      "recycling_material": 60696,
+      "recycling_food": 46210,
+      "incineration": 42491,
+      "landfill": 7829,
+      "etc": 1150,
+      "recycling_rate": 67.5
+    },
+    {
+      "gu": "동작구",
+      "generation": 119527,
+      "recycling_total": 80659,
+      "recycling_material": 52048,
+      "recycling_food": 28611,
+      "incineration": 27158,
+      "landfill": 9166,
+      "etc": 2544,
+      "recycling_rate": 67.5
+    },
+    {
+      "gu": "관악구",
+      "generation": 149864,
+      "recycling_total": 111384,
+      "recycling_material": 80526,
+      "recycling_food": 30858,
+      "incineration": 24650,
+      "landfill": 13830,
+      "etc": 0,
+      "recycling_rate": 74.3
+    },
+    {
+      "gu": "서초구",
+      "generation": 180257,
+      "recycling_total": 113288,
+      "recycling_material": 63473,
+      "recycling_food": 49815,
+      "incineration": 47403,
+      "landfill": 16181,
+      "etc": 3385,
+      "recycling_rate": 62.8
+    },
+    {
+      "gu": "강남구",
+      "generation": 266815,
+      "recycling_total": 169222,
+      "recycling_material": 88651,
+      "recycling_food": 80570,
+      "incineration": 85233,
+      "landfill": 10546,
+      "etc": 1814,
+      "recycling_rate": 63.4
+    },
+    {
+      "gu": "송파구",
+      "generation": 268890,
+      "recycling_total": 162401,
+      "recycling_material": 96844,
+      "recycling_food": 65558,
+      "incineration": 48885,
+      "landfill": 14789,
+      "etc": 42814,
+      "recycling_rate": 60.4
+    },
+    {
+      "gu": "강동구",
+      "generation": 129564,
+      "recycling_total": 84538,
+      "recycling_material": 46483,
+      "recycling_food": 38055,
+      "incineration": 33808,
+      "landfill": 10643,
+      "etc": 574,
+      "recycling_rate": 65.2
+    }
+  ]
+}

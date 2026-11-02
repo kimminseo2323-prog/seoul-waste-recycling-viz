@@ -1,0 +1,183 @@
+{
+  "source": "서울 열린데이터광장 - 생활계폐기물 발생량 및 처리현황(2020년 이후)",
+  "url": "https://data.seoul.go.kr/dataList/DT201004O1200092020/S/2/datasetView.do",
+  "year": 2024,
+  "unit": "톤/년",
+  "data": [
+    {
+      "gu": "종로구",
+      "year": 2024,
+      "generation": 98887,
+      "recycling": 58688,
+      "rate": 59.3
+    },
+    {
+      "gu": "중구",
+      "year": 2024,
+      "generation": 133576,
+      "recycling": 85767,
+      "rate": 64.2
+    },
+    {
+      "gu": "용산구",
+      "year": 2024,
+      "generation": 103895,
+      "recycling": 67515,
+      "rate": 65.0
+    },
+    {
+      "gu": "성동구",
+      "year": 2024,
+      "generation": 159245,
+      "recycling": 120565,
+      "rate": 75.7
+    },
+    {
+      "gu": "광진구",
+      "year": 2024,
+      "generation": 107234,
+      "recycling": 71082,
+      "rate": 66.3
+    },
+    {
+      "gu": "동대문구",
+      "year": 2024,
+      "generation": 112593,
+      "recycling": 73460,
+      "rate": 65.2
+    },
+    {
+      "gu": "중랑구",
+      "year": 2024,
+      "generation": 107223,
+      "recycling": 66826,
+      "rate": 62.3
+    },
+    {
+      "gu": "성북구",
+      "year": 2024,
+      "generation": 117738,
+      "recycling": 87203,
+      "rate": 74.1
+    },
+    {
+      "gu": "강북구",
+      "year": 2024,
+      "generation": 83607,
+      "recycling": 57254,
+      "rate": 68.5
+    },
+    {
+      "gu": "도봉구",
+      "year": 2024,
+      "generation": 88094,
+      "recycling": 61429,
+      "rate": 69.7
+    },
+    {
+      "gu": "노원구",
+      "year": 2024,
+      "generation": 150001,
+      "recycling": 96090,
+      "rate": 64.1
+    },
+    {
+      "gu": "은평구",
+      "year": 2024,
+      "generation": 127441,
+      "recycling": 72827,
+      "rate": 57.1
+    },
+    {
+      "gu": "서대문구",
+      "year": 2024,
+      "generation": 99837,
+      "recycling": 63501,
+      "rate": 63.6
+    },
+    {
+      "gu": "마포구",
+      "year": 2024,
+      "generation": 142121,
+      "recycling": 85360,
+      "rate": 60.1
+    },
+    {
+      "gu": "양천구",
+      "year": 2024,
+      "generation": 121756,
+      "recycling": 72237,
+      "rate": 59.3
+    },
+    {
+      "gu": "강서구",
+      "year": 2024,
+      "generation": 590910,
+      "recycling": 270188,
+      "rate": 45.7
+    },
+    {
+      "gu": "구로구",
+      "year": 2024,
+      "generation": 122831,
+      "recycling": 71343,
+      "rate": 58.1
+    },
+    {
+      "gu": "금천구",
+      "year": 2024,
+      "generation": 96694,
+      "recycling": 64032,
+      "rate": 66.2
+    },
+    {
+      "gu": "영등포구",
+      "year": 2024,
+      "generation": 158377,
+      "recycling": 106906,
+      "rate": 67.5
+    },
+    {
+      "gu": "동작구",
+      "year": 2024,
+      "generation": 119527,
+      "recycling": 80659,
+      "rate": 67.5
+    },
+    {
+      "gu": "관악구",
+      "year": 2024,
+      "generation": 149864,
+      "recycling": 111384,
+      "rate": 74.3
+    },
+    {
+      "gu": "서초구",
+      "year": 2024,
+      "generation": 180257,
+      "recycling": 113288,
+      "rate": 62.8
+    },
+    {
+      "gu": "강남구",
+      "year": 2024,
+      "generation": 266815,
+      "recycling": 169222,
+      "rate": 63.4
+    },
+    {
+      "gu": "송파구",
+      "year": 2024,
+      "generation": 268890,
+      "recycling": 162401,
+      "rate": 60.4
+    },
+    {
+      "gu": "강동구",
+      "year": 2024,
+      "generation": 129564,
+      "recycling": 84538,
+      "rate": 65.2
+    }
+  ]
+}

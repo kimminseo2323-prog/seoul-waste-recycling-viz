@@ -1,0 +1,57 @@
+{
+  "source": "서울 열린데이터광장 - 생활계폐기물 발생량 및 처리현황(2020년 이후)",
+  "url": "https://data.seoul.go.kr/dataList/DT201004O1200092020/S/2/datasetView.do",
+  "nodes": [
+    {
+      "name": "서울시 생활폐기물"
+    },
+    {
+      "name": "물질재활용"
+    },
+    {
+      "name": "음식물자원화"
+    },
+    {
+      "name": "소각"
+    },
+    {
+      "name": "매립"
+    },
+    {
+      "name": "기타"
+    }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 1,
+      "value": 1507567,
+      "year": 2024
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "value": 866195,
+      "year": 2024
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "value": 908918,
+      "year": 2024
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "value": 214165,
+      "year": 2024
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "value": 340132,
+      "year": 2024
+    }
+  ],
+  "total": 3836977
+}
