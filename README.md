@@ -43,7 +43,7 @@ flowchart LR
 
 ### AI 활용 범위
 
-주제 설정·데이터 선정·전처리·해석은 본인이 수행했고, 대시보드 디자인과 발표자료 레이아웃은 생성형 AI의 보조를 받았습니다. 포함된 코드는 모두 설명 가능한 범위입니다. `docs/`의 기획 문서(`ppt_structure.md`, `qa_checklist.md`, `viz_design_spec.md`)는 AI 보조 작업 시 작성된 설계·QA 메모이며, 문서 상단의 작성자 표기(`_slave1 (PL)` 등)는 에이전트 역할명입니다.
+주제 설정·데이터 선정·전처리·해석은 본인이 수행했고, 대시보드 디자인과 발표자료 레이아웃은 생성형 AI의 보조를 받았습니다. 포함된 코드는 모두 설명 가능한 범위입니다.
 
 ## 기술 스택
 
@@ -112,7 +112,6 @@ seoul-waste-recycling-viz/
 │   ├── slides_v8.html · slides_v8.pdf   # 발표자료 19장
 │   └── 결과보고서_제출용.pdf       # 결과보고서
 └── docs/
-    ├── ppt_structure.md · viz_design_spec.md · qa_checklist.md
     └── images/                   # 대시보드·발표자료 캡쳐
 ```
 
